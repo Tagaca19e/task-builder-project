@@ -1,0 +1,12 @@
+.header {
+  font-size: 50px;
+  background-color: #ff6f47;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  margin-top: 10px;
+  margin-top: 10px;
+}
